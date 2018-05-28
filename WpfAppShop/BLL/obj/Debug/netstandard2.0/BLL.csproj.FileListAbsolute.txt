@@ -1,0 +1,13 @@
+E:\Nine\WpfAppShop\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+E:\Nine\WpfAppShop\BLL\bin\Debug\netstandard2.0\BLL.dll
+E:\Nine\WpfAppShop\BLL\bin\Debug\netstandard2.0\BLL.pdb
+E:\Nine\WpfAppShop\BLL\bin\Debug\netstandard2.0\DAL.dll
+E:\Nine\WpfAppShop\BLL\bin\Debug\netstandard2.0\DAL.pdb
+E:\Nine\WpfAppShop\BLL\bin\Debug\netstandard2.0\DAL.dll.config
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.csprojResolveAssemblyReference.cache
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.csproj.CoreCompileInputs.cache
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.dll
+E:\Nine\WpfAppShop\BLL\obj\Debug\netstandard2.0\BLL.pdb
