@@ -8,3 +8,12 @@ E:\Nine\WpfAppShop\DAL\bin\Debug\netstandard2.0\DAL.dll.config
 E:\Nine\WpfAppShop\DAL\bin\Debug\netstandard2.0\DAL.pdb
 E:\Nine\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.dll
 E:\Nine\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.pdb
+E:\Rep\Lab\WpfAppShop\DAL\bin\Debug\netstandard2.0\DAL.dll.config
+E:\Rep\Lab\WpfAppShop\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+E:\Rep\Lab\WpfAppShop\DAL\bin\Debug\netstandard2.0\DAL.dll
+E:\Rep\Lab\WpfAppShop\DAL\bin\Debug\netstandard2.0\DAL.pdb
+E:\Rep\Lab\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+E:\Rep\Lab\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+E:\Rep\Lab\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+E:\Rep\Lab\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.dll
+E:\Rep\Lab\WpfAppShop\DAL\obj\Debug\netstandard2.0\DAL.pdb

@@ -15,45 +15,35 @@ namespace DAL.Repositories
 
         public ShopItemRepository()
         {
-
             this.db = new ShopContext();
-
         }
 
 
 
         public virtual IEnumerable<ShopItem> GetList()
         {
-
             return db.ShopItems;
-
         }
 
 
 
         public ShopItem Get(int id)
         {
-
             return db.ShopItems.Find(id);
-
         }
 
 
 
         public virtual void Create(ShopItem shop)
         {
-
             db.ShopItems.Add(shop);
-
         }
 
 
 
         public void Update(ShopItem shop)
         {
-
             db.Entry(shop).State = EntityState.Modified;
-
         }
 
 
@@ -73,9 +63,7 @@ namespace DAL.Repositories
 
         public virtual void Save()
         {
-
             db.SaveChanges();
-
         }
     }
 }

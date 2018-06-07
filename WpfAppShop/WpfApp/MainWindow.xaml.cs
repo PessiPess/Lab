@@ -93,7 +93,21 @@ namespace WpfApp
 
         private void minusProduct_Click(object sender, RoutedEventArgs e)
         {
+            try
+            {
+                int c = Convert.ToInt32(prodCount.Text);
+                if (productShopGrid.SelectedItems[0] is Product product && comboShop.SelectedItem is Shop shop)
+                {
+                    addShopItem.AddShpItem(product.Id, shop.Id, c*-1);
+                    productItemsGrid.ItemsSource = showShopItem.Show(shop);
+                }
 
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Введено некоректное число", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
 
         private void comboShop_SelectionChanged(object sender, SelectionChangedEventArgs e)

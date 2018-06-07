@@ -12,7 +12,6 @@ namespace BLL
 
         public AddProduct()
         {
-
             product = new ProductRepository();
 
         }

@@ -28,19 +28,22 @@ namespace BLL
                 if (item == null && c>0)
                 {
                     db.Create(new ShopItem {ProductId = productId, ShopId = shopId , Count = c});
-                    db.Save();
-                }
-                if (item!=null && c + item.Count > 0)
-                {
-                    item.Count += c;
-                    db.Update(item);
+
                 }
                 else
-                {
-                    db.Delete(item.Id);
-                }
-                
+                    if (item!=null && c + item.Count > 0)
+                    {
+                        item.Count += c;
+                        db.Update(item);
 
+                    }
+                    else
+                    {
+                        db.Delete(item.Id);
+                    }
+
+
+                db.Save();
                 return true;
 
             }

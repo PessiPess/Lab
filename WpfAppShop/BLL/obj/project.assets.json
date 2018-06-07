@@ -241,11 +241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nine\\WpfAppShop\\BLL\\BLL.csproj",
+      "projectUniqueName": "E:\\Rep\\Lab\\WpfAppShop\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "E:\\Nine\\WpfAppShop\\BLL\\BLL.csproj",
+      "projectPath": "E:\\Rep\\Lab\\WpfAppShop\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\Panch\\.nuget\\packages\\",
-      "outputPath": "E:\\Nine\\WpfAppShop\\BLL\\obj\\",
+      "outputPath": "E:\\Rep\\Lab\\WpfAppShop\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -266,8 +266,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Nine\\WpfAppShop\\DAL\\DAL.csproj": {
-              "projectPath": "E:\\Nine\\WpfAppShop\\DAL\\DAL.csproj"
+            "E:\\Rep\\Lab\\WpfAppShop\\DAL\\DAL.csproj": {
+              "projectPath": "E:\\Rep\\Lab\\WpfAppShop\\DAL\\DAL.csproj"
             }
           }
         }
